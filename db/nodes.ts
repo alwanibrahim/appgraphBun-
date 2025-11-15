@@ -1,0 +1,1 @@
+    export const nodes = new Map<string, any>

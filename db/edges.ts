@@ -1,0 +1,1 @@
+export const edges = new Map<string, string[]>
